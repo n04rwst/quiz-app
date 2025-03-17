@@ -1,0 +1,81 @@
+[
+  {
+    "question": "Какое самое большое животное в мире?",
+    "answers": [
+      { "text": "Африканский слон", "correct": false },
+      { "text": "Синий кит", "correct": true },
+      { "text": "Белый медведь", "correct": false },
+      { "text": "Жираф", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой город является столицей Канады?",
+    "answers": [
+      { "text": "Торонто", "correct": false },
+      { "text": "Ванкувер", "correct": false },
+      { "text": "Оттава", "correct": true },
+      { "text": "Монреаль", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какая планета Солнечной системы самая горячая?",
+    "answers": [
+      { "text": "Меркурий", "correct": false },
+      { "text": "Венера", "correct": true },
+      { "text": "Марс", "correct": false },
+      { "text": "Юпитер", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой вид спорта считается самым популярным в мире?",
+    "answers": [
+      { "text": "Баскетбол", "correct": false },
+      { "text": "Футбол", "correct": true },
+      { "text": "Теннис", "correct": false },
+      { "text": "Хоккей", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какое животное изображено на логотипе Ferrari?",
+    "answers": [
+      { "text": "Орёл", "correct": false },
+      { "text": "Лев", "correct": false },
+      { "text": "Лошадь", "correct": true },
+      { "text": "Тигр", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой город называют \"Городом семи холмов\"?",
+    "answers": [
+      { "text": "Рим", "correct": true },
+      { "text": "Афины", "correct": false },
+      { "text": "Лиссабон", "correct": false },
+      { "text": "Стамбул", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какая страна первой запустила спутник в космос?",
+    "answers": [
+      { "text": "США", "correct": false },
+      { "text": "СССР", "correct": true },
+      { "text": "Германия", "correct": false },
+      { "text": "Китай", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой древний город был погребён под пеплом после извержения вулкана Везувий?",
+    "answers": [
+      { "text": "Карфаген", "correct": false },
+      { "text": "Помпеи", "correct": true },
+      { "text": "Александрия", "correct": false },
+      { "text": "Троя", "correct": false }
+    ]
+  }
+]
