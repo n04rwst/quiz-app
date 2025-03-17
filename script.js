@@ -1,6 +1,9 @@
 import { loadQuestions } from "/utils/loadQuestions.js";
+import { shuffleArray } from "/utils/shuffleArray.js";
 
-const questions = await loadQuestions("/questions.json");
+const QUESTIONS_COUNT = 7;
+
+const data = await loadQuestions("/questions.json");
 
 const questionElement = document.querySelector(".question");
 const answersContainer = document.querySelector(".answer-buttons");
@@ -8,8 +11,10 @@ const nextButton = document.querySelector(".next-btn");
 
 let currentQuestionIndex = 0;
 let score = 0;
+let questions;
 
 function startQuiz() {
+    questions = shuffleArray(data).slice(0, QUESTIONS_COUNT);
     currentQuestionIndex = 0;
     score = 0;
     nextButton.innerHTML = "Дальше";

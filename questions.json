@@ -77,5 +77,185 @@
       { "text": "Александрия", "correct": false },
       { "text": "Троя", "correct": false }
     ]
+  },
+
+  {
+    "question": "Какой газ составляет основную часть атмосферы Земли?",
+    "answers": [
+      { "text": "Кислород", "correct": false },
+      { "text": "Азот", "correct": true },
+      { "text": "Углекислый газ", "correct": false },
+      { "text": "Водород", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Как называется самая длинная река в мире?",
+    "answers": [
+      { "text": "Нил", "correct": false },
+      { "text": "Амазонка", "correct": true },
+      { "text": "Янцзы", "correct": false },
+      { "text": "Миссисипи", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой химический элемент обозначается символом 'Au'?",
+    "answers": [
+      { "text": "Серебро", "correct": false },
+      { "text": "Алюминий", "correct": false },
+      { "text": "Золото", "correct": true },
+      { "text": "Аргон", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какое животное самое быстрое на суше?",
+    "answers": [
+      { "text": "Лев", "correct": false },
+      { "text": "Гепард", "correct": true },
+      { "text": "Антилопа", "correct": false },
+      { "text": "Койот", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Сколько материков на Земле?",
+    "answers": [
+      { "text": "Пять", "correct": false },
+      { "text": "Шесть", "correct": false },
+      { "text": "Семь", "correct": true },
+      { "text": "Восемь", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Кто написал роман 'Преступление и наказание'?",
+    "answers": [
+      { "text": "Лев Толстой", "correct": false },
+      { "text": "Фёдор Достоевский", "correct": true },
+      { "text": "Антон Чехов", "correct": false },
+      { "text": "Иван Тургенев", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой океан самый большой на Земле?",
+    "answers": [
+      { "text": "Атлантический", "correct": false },
+      { "text": "Тихий", "correct": true },
+      { "text": "Индийский", "correct": false },
+      { "text": "Северный Ледовитый", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой металл используется для производства электрических проводов из-за высокой проводимости?",
+    "answers": [
+      { "text": "Алюминий", "correct": false },
+      { "text": "Медь", "correct": true },
+      { "text": "Железо", "correct": false },
+      { "text": "Олово", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какое из этих чисел является простым?",
+    "answers": [
+      { "text": "21", "correct": false },
+      { "text": "17", "correct": true },
+      { "text": "49", "correct": false },
+      { "text": "35", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Кто первым ступил на поверхность Луны?",
+    "answers": [
+      { "text": "Юрий Гагарин", "correct": false },
+      { "text": "Нил Армстронг", "correct": true },
+      { "text": "Базз Олдрин", "correct": false },
+      { "text": "Майкл Коллинз", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какое морское животное может изменить цвет своей кожи, чтобы сливаться с окружающей средой?",
+    "answers": [
+      { "text": "Кальмар", "correct": false },
+      { "text": "Осьминог", "correct": true },
+      { "text": "Дельфин", "correct": false },
+      { "text": "Морской конёк", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой элемент является основой органической химии?",
+    "answers": [
+      { "text": "Кислород", "correct": false },
+      { "text": "Углерод", "correct": true },
+      { "text": "Азот", "correct": false },
+      { "text": "Водород", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Сколько градусов в полном круге?",
+    "answers": [
+      { "text": "90", "correct": false },
+      { "text": "180", "correct": false },
+      { "text": "360", "correct": true },
+      { "text": "720", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какая планета известна своими кольцами?",
+    "answers": [
+      { "text": "Юпитер", "correct": false },
+      { "text": "Сатурн", "correct": true },
+      { "text": "Нептун", "correct": false },
+      { "text": "Уран", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Кто автор картины 'Мона Лиза'?",
+    "answers": [
+      { "text": "Винсент Ван Гог", "correct": false },
+      { "text": "Леонардо да Винчи", "correct": true },
+      { "text": "Клод Моне", "correct": false },
+      { "text": "Микеланджело", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой язык программирования используется для веб-разработки на стороне клиента?",
+    "answers": [
+      { "text": "Python", "correct": false },
+      { "text": "JavaScript", "correct": true },
+      { "text": "Java", "correct": false },
+      { "text": "C#", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой инструмент измеряет атмосферное давление?",
+    "answers": [
+      { "text": "Гигрометр", "correct": false },
+      { "text": "Барометр", "correct": true },
+      { "text": "Термометр", "correct": false },
+      { "text": "Анемометр", "correct": false }
+    ]
+  },
+
+  {
+    "question": "Какой цвет получается при смешивании синего и жёлтого?",
+    "answers": [
+      { "text": "Фиолетовый", "correct": false },
+      { "text": "Зелёный", "correct": true },
+      { "text": "Оранжевый", "correct": false },
+      { "text": "Коричневый", "correct": false }
+    ]
   }
 ]
